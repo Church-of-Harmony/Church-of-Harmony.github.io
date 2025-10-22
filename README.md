@@ -2,4 +2,6 @@
 
 > I love the java jive and it loveth me.
 
+Wise words.
+
 If you'd like to see why dozenal is best, click [here](https://ilikecoffee-iliketea.github.io/dozenal/).

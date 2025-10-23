@@ -1,7 +1,8 @@
-# I like coffee, I like tea.
+# Harmonia Church
 
-> I love the java jive and it loveth me.
+> I like coffee, I like tea; I love the java jive and it loveth me.
 
-Wise words.
+Wise words from a wise man.
 
-If you'd like to see why dozenal is best, click [here](https://ilikecoffee-iliketea.github.io/dozenal/).
+Please come every other Friday 🙏🏼🙏🏼🙏🏼
+
